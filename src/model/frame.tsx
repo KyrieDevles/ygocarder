@@ -24,7 +24,7 @@ export const FrameInfoMap: Record<string, FrameInfo> = {
         nameKey: 'input.frame.dynamis',
         labelColor: '#ffffff',
         edition: 'fanmade',
-        labelBackgroundColor: '#5e85c9',
+        labelBackgroundColor: '#FFD700',
         sortWeight: 85,
         isOfficial: false,
     },
