@@ -23,10 +23,10 @@ export const FrameInfoMap: Record<string, FrameInfo> = {
         name: 'dynamis',
         nameKey: 'input.frame.dynamis',
         labelColor: '#ffffff',
-        edition: 'normal',
+        edition: 'fanmade',
         labelBackgroundColor: '#5e85c9',
         sortWeight: 85,
-        isOfficial: true,
+        isOfficial: false,
     },
     'effect': {
         name: 'effect',
