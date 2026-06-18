@@ -1,9 +1,9 @@
 {
-  "version": "2b91814e677e0f8b",
-  "generatedAt": "2026-06-18T01:20:46.794Z",
+  "version": "4845d7504b131c24",
+  "generatedAt": "2026-06-18T01:36:56.414Z",
   "basePath": "/ygocarder/",
-  "assetCount": 663,
-  "totalBytes": 79992381,
+  "assetCount": 664,
+  "totalBytes": 80269077,
   "assets": {
     "/ygocarder/asset/font.css": {
       "hash": "62e6b4a8a85c0c1b",
@@ -1468,6 +1468,10 @@
     "/ygocarder/asset/image/frame/frame-dl-skill.png": {
       "hash": "6b8da57417923843",
       "size": 316303
+    },
+    "/ygocarder/asset/image/frame/frame-dynamis.png": {
+      "hash": "adbe21cf165059c6",
+      "size": 276696
     },
     "/ygocarder/asset/image/frame/frame-effect.png": {
       "hash": "00ff29b1728e022c",
