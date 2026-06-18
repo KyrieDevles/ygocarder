@@ -1,0 +1,2 @@
+var e={SOBEL:`sobel`,SCHARR:`scharr`},t=()=>({invertedRed:!1,invertedGreen:!1,invertedSource:!1,blurSharp:0,strength:1,level:8.5,type:e.SOBEL});export{t as n,e as t};
+//# sourceMappingURL=model-DcUYIs3s.js.map
