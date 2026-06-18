@@ -19,6 +19,15 @@ export const FrameInfoMap: Record<string, FrameInfo> = {
         sortWeight: 100,
         isOfficial: true,
     },
+        'dynamis': {
+        name: 'dynamis',
+        nameKey: 'input.frame.dynamis',
+        labelColor: '#ffffff',
+        edition: 'normal',
+        labelBackgroundColor: '#5e85c9',
+        sortWeight: 85,
+        isOfficial: true,
+    },
     'effect': {
         name: 'effect',
         nameKey: 'input.frame.effect',
